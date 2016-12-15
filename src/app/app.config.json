@@ -1,0 +1,15 @@
+{
+	"appname": "MN Boxes Seller App",
+	"scope": "",
+	"clientid": "E7FB47FE-99CC-486A-9FD0-FBE71CEF1D4D",
+	"buyerid": "BBB-1",
+	"catalogid": "BBB-1",
+	"environment": "production",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
